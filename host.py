@@ -46,7 +46,7 @@ ADMIN_IDS = [7467384643, 7506224965]  # Add your admin IDs here
 
 # Required channels for bot access
 REQUIRED_CHANNELS = [
-    {'name': 'HOSTHUNTER, 'username': '@NG_BOTV1', 'url': 'https://t.me/oceanhenter},
+    {'name': 'HOSTHUNTER', 'username': '@NG_BOTV1', 'url': 'https://t.me/oceanhenter},
     {'name': 'Developer Channel', 'username': None, 'url': 'https://t.me/HUNTERINTERNET},
     {'name': 'Updates Channel', 'username': None, 'url': 'https://t.me/HOSTHUNTER}
 ]
