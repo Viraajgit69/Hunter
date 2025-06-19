@@ -8,7 +8,7 @@ import aiohttp
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
 
-BOT_TOKEN = "7852957121:AAEpK26MB3hctLPqjLkuA2DJir5Oc3AmFEc"
+BOT_TOKEN = "7927733051:AAF905Gywtotx__xP-ZsDCr7krkeCSE-n3g"
 CLOUDFLARE_API_KEY = "8d6a11598d66525cba9755b5e822d9ba6dd1f"
 CLOUDFLARE_EMAIL = "Gamerzbrutal65@gmail.com"
 DOMAIN_NAME = "host-hunter.tech"
